@@ -1,0 +1,9 @@
+export const GET_POSTS = "GET_POST"
+export const GET_POSTS_OK = "GET_POST_OK"
+export const GET_POSTS_FAIL = "GET_POST_FAIL"
+
+
+
+export const GET_SINGLE_POST = "GET_SINGLE_POST"
+export const GET_SINGLE_POST_OK = "GET_SINGLE_POST_OK"
+export const GET_SINGLE_POST_FAIL = "GET_SINGLE_POST_FAIL"
