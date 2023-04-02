@@ -8,7 +8,7 @@ export default function HomePage(){   // esto lo metemos manual todo
      <div className='bg-image1'>
         <Container className='color'>
  <Container>
-            <h1>Home Page</h1>
+            <h1>Rick & Morty</h1>
             {user && user.id? <h2> Bienvenid@ {user.firstName}</h2>: 'No estas loggeado'}
        
         </Container>

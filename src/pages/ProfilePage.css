@@ -1,0 +1,15 @@
+.bg-image3 {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm6JCUHI8JTZtLHcIb1GKrWKOidNuT12rAzw&usqp=CAU');
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.colorProfile{
+    color:white;
+}
+
+
+.colorProfile2{
+    color:red;
+}
